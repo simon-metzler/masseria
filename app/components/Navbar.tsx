@@ -8,6 +8,16 @@ export default function Navbar() {
           Masseria Booking
         </Link>
       </div>
+      <div className="navbar-end">
+        <ul className="menu menu-horizontal">
+          <li>
+            <Link href="benefits">Vorteile</Link>
+          </li>
+          <li>
+            <Link href="about">Über uns</Link>
+          </li>
+        </ul>
+      </div>
     </div>
   );
 }
