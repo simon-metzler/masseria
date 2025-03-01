@@ -32,7 +32,7 @@ export default function Overview() {
     },
     {
       id: 4,
-      link: "benefits",
+      link: "/benefits",
       title: "Vorteile – Warum du bei uns buchen solltest",
       description:
         "Unsere Lage bietet die ideale Mischung aus Abgeschiedenheit und guter Erreichbarkeit. Du kannst hier Ruhe und Erholung inmitten der Natur genießen und bist dennoch nur wenige Minuten von charmanten Dörfern und Sehenswürdigkeiten entfernt. Wir legen großen Wert auf Nachhaltigkeit und bieten dir eine umweltfreundliche Unterkunft, die im Einklang mit der Natur steht. Erkunde die Umgebung, probiere lokale Spezialitäten und erlebe Italien von seiner schönsten Seite.",
@@ -41,7 +41,7 @@ export default function Overview() {
     },
     {
       id: 5,
-      link: "about",
+      link: "/about",
       title: "Über uns – Dein Rückzugsort in Italien",
       description:
         "Mitten in einer traumhaften Landschaft liegt unsere Villa, die dir einen einzigartigen Ort für Erholung bietet. Umgeben von Olivenhainen und mediterraner Natur kannst du hier das Dolce Vita genießen. Unser Ziel ist es, dir einen unvergesslichen Aufenthalt zu ermöglichen, bei dem du den Stress des Alltags hinter dir lässt. Egal, ob du dich für ein Tiny House, einen Wohnmobil-Stellplatz oder Glamping entscheidest – bei uns findest du den perfekten Ort für deine Auszeit.",

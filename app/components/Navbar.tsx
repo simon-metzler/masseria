@@ -11,10 +11,10 @@ export default function Navbar() {
       <div className="navbar-end">
         <ul className="menu menu-horizontal">
           <li>
-            <Link href="benefits">Vorteile</Link>
+            <Link href="/benefits">Vorteile</Link>
           </li>
           <li>
-            <Link href="about">Über uns</Link>
+            <Link href="/about">Über uns</Link>
           </li>
         </ul>
       </div>
