@@ -19,7 +19,7 @@ export default function Hero() {
             Tiny Houses, auf idyllischen Wohnmobil-Stellplätzen oder beim
             luxuriösen Glamping.
           </p>
-          <Link className="btn btn-primary" href="#tiny-houses">
+          <Link className="btn btn-primary" href="#overview">
             Umsehen
           </Link>
         </div>
